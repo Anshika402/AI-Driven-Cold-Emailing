@@ -36,6 +36,16 @@ The Email Automation Tool is designed to streamline the email management process
 * It will then use machine learning to understand the context of the emails and assign automatic labels.
 * Based on the context of the emails, automated replies will be sent.
 
+***
+
+**RESULT**
+
+![image](https://github.com/Anshika402/AI-driven-Cold-Emailing/assets/91580336/3d4184d6-eccc-48c3-9cb0-2b690b30735a)
+
+
+![image](https://github.com/Anshika402/AI-driven-Cold-Emailing/assets/91580336/68a88ca0-09ab-4b4d-80dc-ece2b0a91e6e)
+
+
 
 
 
