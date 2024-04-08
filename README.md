@@ -40,8 +40,11 @@ The Email Automation Tool is designed to streamline the email management process
 
 **RESULT**
 
+*Email Sent*
+
 ![image](https://github.com/Anshika402/AI-driven-Cold-Emailing/assets/91580336/3d4184d6-eccc-48c3-9cb0-2b690b30735a)
 
+*Replies*
 
 ![image](https://github.com/Anshika402/AI-driven-Cold-Emailing/assets/91580336/68a88ca0-09ab-4b4d-80dc-ece2b0a91e6e)
 
